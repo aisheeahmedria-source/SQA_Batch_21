@@ -6,3 +6,4 @@ class GitPreactice {
 const result = new GitPreactice();
 result.oddNum();
 
+
