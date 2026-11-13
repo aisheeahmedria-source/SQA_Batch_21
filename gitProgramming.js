@@ -1,8 +1,8 @@
-class GitPreactice {
+class Sqa {
     oddNum (){
         console.log("this is odd function");
     }
 }
-const result = new GitPreactice();
+const result = new Sqa();
 result.oddNum();
 
