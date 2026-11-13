@@ -6,3 +6,4 @@ class Sqa {
 const result = new Sqa();
 result.oddNum();
 
+
